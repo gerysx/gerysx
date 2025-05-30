@@ -76,7 +76,5 @@ Soy un desarrollador de software especializado en entornos full stack, orientado
 
 > "El mejor código es aquel que no necesita ser explicado." – Germán Álvarez
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gerysx/gerysx/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+
 
