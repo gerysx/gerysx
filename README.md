@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, soy Germán! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa+y+la+innovaci%C3%B3n;Siempre+aprendiendo+y+construyendo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&width=600&center=true&vCenter=true&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa+y+la+innovaci%C3%B3n;Siempre+aprendiendo%2C+siempre+construyendo" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador de software especializado en entornos full stack, orientado a soluciones eficientes, seguras y escalables. Mi formación técnica combinada con una actitud proactiva y colaborativa me permite adaptarme rápidamente a distintos entornos y tecnologías.
+Soy un desarrollador de software con experiencia en entornos full stack, orientado a soluciones eficientes, seguras y escalables. Mi formación técnica combinada con una actitud proactiva y colaborativa me permite adaptarme rápidamente a distintos entornos y tecnologías.
 
 - 🎓 Formación en Desarrollo de Aplicaciones Multiplataforma
 - 🧠 En constante actualización: autodidacta y curioso por naturaleza
@@ -47,7 +47,7 @@ Soy un desarrollador de software especializado en entornos full stack, orientado
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="background-color:#0d1117;padding:20px;border-radius:10px">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gerysx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerysx&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
@@ -70,11 +70,11 @@ Soy un desarrollador de software especializado en entornos full stack, orientado
 ## 📫 Conecta conmigo
 
 - ✉️ geralvarez95@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/germanalvarezgonzalez/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/germanalvarezgonzalez/)
+
 
 ---
 
 > "El mejor código es aquel que no necesita ser explicado." – Germán Álvarez
 
-
-
+<!-- README profesional diseñado con ❤️ -->
