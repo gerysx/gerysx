@@ -63,7 +63,7 @@ Soy un desarrollador de software con experiencia en entornos full stack, orienta
 | Proyecto | Tecnologías | Descripción |
 |----------|-------------|-------------|
 | [ERP Ventas](https://github.com/gerysx/erp-ventas-frontend) | Angular · Node.js · PostgreSQL | ERP con roles, autenticación JWT y panel de gestión completo |
-| [App de Gestión Híbrida](https://github.com/gerysx/app-ventas-hibrida) | Ionic · Firebase · Tailwind | App móvil multiplataforma con autenticación, estadísticas y CRUD visual |
+| [App de Gestión Híbrida](https://github.com/gerysx/product-admin/) | Ionic · Firebase · Tailwind | App móvil multiplataforma con autenticación, estadísticas y CRUD visual |
 
 ---
 
