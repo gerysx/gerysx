@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Germán! 👋</h1>
+<h1 align="center">¡Hola, soy Germán! </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&width=600&center=true&vCenter=true&lines=Desarrollador+de+software;Apasionado+por+la+tecnolog%C3%ADa+y+la+innovaci%C3%B3n;Siempre+aprendiendo%2C+siempre+construyendo" alt="Typing SVG" />
@@ -14,14 +14,14 @@
 
 Soy un desarrollador de software con experiencia en entornos full stack, orientado a soluciones eficientes, seguras y escalables. Mi formación técnica combinada con una actitud proactiva y colaborativa me permite adaptarme rápidamente a distintos entornos y tecnologías.
 
-- 🎓 Formación en Desarrollo de Aplicaciones Multiplataforma
-- 🧠 En constante actualización: autodidacta y curioso por naturaleza
-- 👨‍💻 Me gusta escribir código limpio, estructurado y mantenible
-- 🤝 Fuerte enfoque en trabajo en equipo y comunicación efectiva
+-  Formación en Desarrollo de Aplicaciones Multiplataforma
+-  En constante actualización: autodidacta y curioso por naturaleza
+-  Me gusta escribir código limpio, estructurado y mantenible
+-  Fuerte enfoque en trabajo en equipo y comunicación efectiva
 
 ---
 
-## 🛠️ Stack tecnológico
+## 🛠 Stack tecnológico
 
 ### Lenguajes
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -45,7 +45,7 @@ Soy un desarrollador de software con experiencia en entornos full stack, orienta
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center" style="background-color:#0d1117;padding:20px;border-radius:10px">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gerysx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -58,7 +58,7 @@ Soy un desarrollador de software con experiencia en entornos full stack, orienta
 
 ---
 
-## 🧩 Proyectos Destacados
+##  Proyectos Destacados
 
 | Proyecto | Tecnologías | Descripción |
 |----------|-------------|-------------|
@@ -67,7 +67,7 @@ Soy un desarrollador de software con experiencia en entornos full stack, orienta
 
 ---
 
-## 📫 Conecta conmigo
+##  Conecta conmigo
 
 - ✉️ geralvarez95@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/germanalvarezgonzalez/)
