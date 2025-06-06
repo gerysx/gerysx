@@ -10,18 +10,21 @@
 
 ---
 
-## 🚀 Sobre mí
+##  Sobre mí
 
-Soy un desarrollador de software con experiencia en entornos full stack, orientado a soluciones eficientes, seguras y escalables. Mi formación técnica combinada con una actitud proactiva y colaborativa me permite adaptarme rápidamente a distintos entornos y tecnologías.
+Desarrollador de software formado en Desarrollo de Aplicaciones Multiplataforma, con especial interés en la tecnología, el desarrollo full stack y en seguir aprendiendo cada día. Me gusta construir soluciones prácticas, escribir código limpio y entender cómo funcionan las cosas por dentro (aunque a veces cueste más de lo que parece).
 
--  Formación en Desarrollo de Aplicaciones Multiplataforma
--  En constante actualización: autodidacta y curioso por naturaleza
--  Me gusta escribir código limpio, estructurado y mantenible
--  Fuerte enfoque en trabajo en equipo y comunicación efectiva
+- Formación técnica en DAM, complementada con mucha práctica y autoaprendizaje.
+
+- Me esfuerzo por escribir código claro, estructurado y fácil de mantener.
+
+- Me adapto bien a equipos de trabajo, acostumbrado a metodologías ágiles y comunicación constante.
+
+- Siempre con ganas de mejorar, descubrir nuevas herramientas y seguir creciendo como desarrollador. 
 
 ---
 
-## 🛠 Stack tecnológico
+##  Stack tecnológico
 
 ### Lenguajes
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -32,13 +35,18 @@ Soy un desarrollador de software con experiencia en entornos full stack, orienta
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ### Bases de datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Herramientas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
@@ -64,17 +72,15 @@ Soy un desarrollador de software con experiencia en entornos full stack, orienta
 |----------|-------------|-------------|
 | [ERP Ventas](https://github.com/gerysx/erp-ventas-frontend) | Angular · Node.js · PostgreSQL | ERP con roles, autenticación JWT y panel de gestión completo |
 | [App de Gestión Híbrida](https://github.com/gerysx/product-admin/) | Ionic · Firebase · Tailwind | App móvil multiplataforma con autenticación, estadísticas y CRUD visual |
+| [API REST Libros](https://github.com/gerysx/rest-api-node-mongo-docker) | Node.js · Express · MongoDB · Mongoose · Docker | API RESTful para la gestión de libros con operaciones CRUD completas, uso de MongoDB como base de datos, Mongoose para modelado de datos, y contenedores Docker para facilitar el despliegue local |
 
 ---
 
 ##  Conecta conmigo
 
-- ✉️ geralvarez95@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/germanalvarezgonzalez/)
-
+-  geralvarez95@gmail.com  
+-  [LinkedIn](https://www.linkedin.com/in/germanalvarezgonzalez/)
 
 ---
 
 > "El mejor código es aquel que no necesita ser explicado." – Germán Álvarez
-
-<!-- README profesional diseñado con ❤️ -->
