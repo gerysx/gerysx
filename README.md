@@ -79,7 +79,7 @@ Desarrollador de software formado en Desarrollo de Aplicaciones Multiplataforma,
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 <details>
   <summary><strong> Backend</strong></summary>
