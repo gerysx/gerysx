@@ -66,13 +66,33 @@ Desarrollador de software formado en Desarrollo de Aplicaciones Multiplataforma,
 
 ---
 
-##  Proyectos Destacados
+## 🚀 Proyectos Destacados
+
+<details>
+  <summary><strong> Backend</strong></summary>
 
 | Proyecto | Tecnologías | Descripción |
 |----------|-------------|-------------|
-| [ERP Ventas](https://github.com/gerysx/erp-ventas-frontend) | Angular · Node.js · PostgreSQL | ERP con roles, autenticación JWT y panel de gestión completo |
-| [App de Gestión Híbrida](https://github.com/gerysx/product-admin/) | Ionic · Firebase · Tailwind | App móvil multiplataforma con autenticación, estadísticas y CRUD visual |
-| [API REST Libros](https://github.com/gerysx/rest-api-node-mongo-docker) | Node.js · Express · MongoDB · Mongoose · Docker | API RESTful para la gestión de libros con operaciones CRUD completas, uso de MongoDB como base de datos, Mongoose para modelado de datos, y contenedores Docker para facilitar el despliegue local |
+| [ERP Node Ventas](https://github.com/gerysx/erp-node-ventas) | Node.js · Express · PostgreSQL · JWT | Backend de un sistema ERP con roles, autenticación, gestión de productos y clientes, y generación de facturas |
+| [API REST Libros](https://github.com/gerysx/rest-api-node-mongo-docker) | Node.js · Express · MongoDB · Mongoose · Docker | API RESTful para gestión de libros con operaciones CRUD completas, MongoDB como base de datos y contenedores Docker para despliegue local |
+| [API Auth JWT](https://github.com/gerysx/node-auth-jwt-api-rest-typescript) | Node.js · Express · TypeScript · Prisma · PostgreSQL · JWT | API REST con autenticación JWT, hasheo de contraseñas, Prisma ORM y PostgreSQL |
+| [ERP JPA Hibernate](https://github.com/gerysx/Jpa-Hibernate) | Java · Spring Boot · JPA · Hibernate | Backend con ORM JPA/Hibernate para gestión de ventas y entidades relacionadas en Java |
+| [CRUD MVC Form](https://github.com/gerysx/crud-mvc-form) | Java · Spring Boot · Thymeleaf | CRUD completo usando el patrón MVC, plantillas Thymeleaf y validación de formularios en Java |
+
+</details>
+
+<details>
+  <summary><strong> Frontend</strong></summary>
+
+| Proyecto | Tecnologías | Descripción |
+|----------|-------------|-------------|
+| [ERP Ventas Frontend](https://github.com/gerysx/erp-ventas-frontend) | Angular · Bootstrap | Panel administrativo para un ERP de ventas con rutas protegidas, roles y conexión a API REST |
+| [App de Gestión Híbrida](https://github.com/gerysx/product-admin/) | Ionic · Firebase · Tailwind | App móvil multiplataforma con autenticación, estadísticas y gestión de productos con CRUD visual |
+| [Contactos Angular](https://github.com/gerysx/contacts-angular) | Angular · Bootstrap | App para gestionar contactos con operaciones CRUD conectada a un backend REST |
+| [E-commerce Spring](https://github.com/gerysx/spring-ecommerce) | HTML · CSS · Thymeleaf · Spring Boot | Frontend de un e-commerce básico construido con plantillas Thymeleaf conectadas al backend |
+
+</details>
+
 
 ---
 
