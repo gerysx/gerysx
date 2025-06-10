@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&width=600&center=true&vCenter=true&lines=Desarrollador+de+software;Apasionado+por+la+tecnolog%C3%ADa+y+la+innovaci%C3%B3n;Siempre+aprendiendo%2C+siempre+construyendo" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/gerysx/gerysx/assets/banner-profesional-github.gif" alt="banner"/>
-</p>
+
 
 ---
 
@@ -113,6 +111,7 @@ Desarrollador de software formado en Desarrollo de Aplicaciones Multiplataforma,
 
 -  geralvarez95@gmail.com  
 -  [LinkedIn](https://www.linkedin.com/in/germanalvarezgonzalez/)
+-  [Visita mi web](https://www.gerysdev.es/)
 
 ---
 
